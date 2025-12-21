@@ -1,4 +1,4 @@
-Student Grade Sheet Management System (C).
+Student Grade Sheet Management System (C)
 This is a simple console-based Student Grade Sheet Management System written in C.
 
 Features
